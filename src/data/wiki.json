@@ -1,0 +1,34 @@
+{
+  "pages": [
+    {
+      "id": "1",
+      "title": "Redstone Basics",
+      "summary": "Learn how to power your creations.",
+      "content": [
+        "Redstone is Minecraft’s circuitry.",
+        "Use dust, repeaters, and torches to power anything.",
+        "Start simple and build up to complex contraptions!"
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Mob Farming",
+      "summary": "Build efficient farms.",
+      "content": [
+        "Choose a mob spawn spot and build walls.",
+        "Use water or fall traps to collect drops safely.",
+        "Lighting control is key to maximize spawn rates."
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Enchanting Guide",
+      "summary": "Max out your gear.",
+      "content": [
+        "Build an enchantment table surrounded by bookshelves.",
+        "Lapis lazuli + XP ⇒ enchant your tools and armor.",
+        "Grindstone reverses unwanted enchantments."
+      ]
+    }
+  ]
+}

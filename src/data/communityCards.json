@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1000,
+    "type": "mob",
+    "name": "Warden",
+    "rarity": "legendary",
+    "mana": 9,
+    "attack": 10,
+    "health": 10,
+    "tags": ["undead", "machine"],
+    "description": [
+      "Blind: Can only attack",
+      "if damaged this turn.",
+      "When damaged:",
+      "Deal 3 damage to attacker."
+    ],
+    "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/6/64/Warden.png",
+    "author": "CraftMaster2000"
+  },
+  {
+    "id": 1001,
+    "type": "trick",
+    "name": "Ender Chest",
+    "rarity": "epic",
+    "mana": 3,
+    "tags": ["end", "machine"],
+    "description": [
+      "Draw 2 cards.",
+      "If you have an End mob,",
+      "draw 3 instead."
+    ],
+    "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/f/f1/Ender_Chest.png",
+    "author": "BlockBuilder99"
+  },
+  {
+    "id": 1002,
+    "type": "mob",
+    "name": "Baby Zombie",
+    "rarity": "uncommon",
+    "mana": 1,
+    "attack": 2,
+    "health": 1,
+    "tags": ["undead"],
+    "description": [
+      "Rush: Can attack immediately.",
+      "When played: +1⚔️ if you",
+      "control another Undead."
+    ],
+    "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/8/87/Baby_Zombie.png",
+    "author": "ZombieHunter"
+  }
+]
