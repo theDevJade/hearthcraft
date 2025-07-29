@@ -82,7 +82,7 @@ export default function HomePage() {
         setFeedCount(c => c + 1);
 
         // 20% chance to drop a random letter (only before 99 feeds)
-        if (Math.random() < 0.2 && feedCount < 99 && titleText.length > 1) {
+        if (Math.random() < 0.15 && feedCount < 99 && titleText.length > 1) {
             const i = Math.floor(Math.random() * titleText.length);
             setTitleText(t => t.slice(0, i) + t.slice(i + 1));
         }
