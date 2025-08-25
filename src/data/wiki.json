@@ -8,7 +8,9 @@
         "Redstone is Minecraft’s circuitry.",
         "Use dust, repeaters, and torches to power anything.",
         "Start simple and build up to complex contraptions!"
-      ]
+      ],
+      "tags": ["redstone", "power", "circuits", "beginner"],
+      "md": "1.md"
     },
     {
       "id": "2",
@@ -18,7 +20,9 @@
         "Choose a mob spawn spot and build walls.",
         "Use water or fall traps to collect drops safely.",
         "Lighting control is key to maximize spawn rates."
-      ]
+      ],
+      "tags": ["mob", "farming", "drops", "spawning", "xp"],
+      "md": "2.md"
     },
     {
       "id": "3",
@@ -28,7 +32,9 @@
         "Build an enchantment table surrounded by bookshelves.",
         "Lapis lazuli + XP ⇒ enchant your tools and armor.",
         "Grindstone reverses unwanted enchantments."
-      ]
+      ],
+      "tags": ["enchanting", "gear", "table", "bookshelves", "xp"],
+      "md": "3.md"
     }
   ]
 }
