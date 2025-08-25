@@ -2,20 +2,20 @@
   {
     "id": 1000,
     "type": "mob",
-    "name": "Warden",
+    "name": "ThisCatHasAGun",
     "rarity": "legendary",
     "mana": 9,
     "attack": 10,
     "health": 10,
-    "tags": ["undead", "machine"],
+    "tags": ["undead", "machine", "human", "dog"],
     "description": [
-      "Blind: Can only attack",
-      "if damaged this turn.",
-      "When damaged:",
-      "Deal 3 damage to attacker."
+      "Stupid:",
+      "Cannot have ally cards played on it",
+      "On Exists:",
+      "Plays itself for free, and any and all actions effect the owner aswell."
     ],
     "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/6/64/Warden.png",
-    "author": "CraftMaster2000"
+    "author": "ThisCatHasAGun"
   },
   {
     "id": 1001,

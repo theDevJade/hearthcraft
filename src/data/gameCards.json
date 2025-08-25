@@ -3,14 +3,15 @@
     "id": 1,
     "name": "Airstrike",
     "mana": 10,
-    "rarity": "common",
+    "rarity": "epic",
     "image": "",
     "type": "trick",
     "tags": [
       "Machine"
     ],
     "description": [
-      "Do 5 damage to all enemy Mobs. While in hand.",
+      "Do 5 damage to all enemy Mobs.",
+      "While in hand.",
       "This costs 1⭐ less when you play a Machine Card."
     ]
   },
@@ -18,7 +19,7 @@
     "id": 2,
     "name": "Allay",
     "mana": 1,
-    "rarity": "common",
+    "rarity": "epic",
     "image": "",
     "type": "mob",
     "attack": 1,
@@ -49,7 +50,7 @@
     "id": 4,
     "name": "Arctic Fox",
     "mana": 1,
-    "rarity": "common",
+    "rarity": "uncommon",
     "image": "",
     "type": "mob",
     "attack": 2,
@@ -65,9 +66,26 @@
   },
   {
     "id": 5,
+    "name": "Armadillo",
+    "mana": 2,
+    "rarity": "uncommon",
+    "image": "",
+    "type": "mob",
+    "attack": 2,
+    "health": 2,
+    "tags": [
+      "Pet"
+    ],
+    "description": [
+      "When Played.",
+      "An ally mob with 2🗡 cannot be hurt this turn."
+    ]
+  },
+  {
+    "id": 6,
     "name": "Armorer",
     "mana": 2,
-    "rarity": "common",
+    "rarity": "uncommon",
     "image": "",
     "type": "mob",
     "attack": 2,
@@ -82,10 +100,10 @@
     ]
   },
   {
-    "id": 6,
+    "id": 7,
     "name": "Axolotl",
     "mana": 2,
-    "rarity": "common",
+    "rarity": "uncommon",
     "image": "",
     "type": "mob",
     "attack": 2,
@@ -99,10 +117,10 @@
     ]
   },
   {
-    "id": 7,
+    "id": 8,
     "name": "Baby Ghast",
     "mana": 2,
-    "rarity": "common",
+    "rarity": "rare",
     "image": "",
     "type": "mob",
     "attack": 1,
@@ -116,10 +134,10 @@
     ]
   },
   {
-    "id": 8,
+    "id": 9,
     "name": "Baby Hoglin",
     "mana": 2,
-    "rarity": "common",
+    "rarity": "epic",
     "image": "",
     "type": "mob",
     "attack": 1,
@@ -134,10 +152,10 @@
     ]
   },
   {
-    "id": 9,
+    "id": 10,
     "name": "Bat",
     "mana": 1,
-    "rarity": "common",
+    "rarity": "rare",
     "image": "",
     "type": "mob",
     "attack": 2,
@@ -151,10 +169,10 @@
     ]
   },
   {
-    "id": 10,
+    "id": 11,
     "name": "Battle Drill",
     "mana": 6,
-    "rarity": "common",
+    "rarity": "legendary",
     "image": "",
     "type": "mob",
     "attack": 5,
@@ -164,32 +182,31 @@
     ],
     "description": [
       "When this enters a lane.",
-      "Deal 2 damage to each enemy infront and adjacent to this one, Start of Turn.",
+      "Deal 2 damage to each enemy infront and adjacent to this one.",
+      "Start of Turn.",
       "Move to a random lane."
     ]
   },
   {
-    "id": 11,
+    "id": 12,
     "name": "Beehive",
     "mana": 1,
-    "rarity": "common",
+    "rarity": "uncommon",
     "image": "",
     "type": "mob",
     "attack": 0,
     "health": 3,
-    "tags": [
-      "Pet"
-    ],
+    "tags": [],
     "description": [
       "When Hurt.",
       "Conjure a Bee."
     ]
   },
   {
-    "id": 12,
+    "id": 13,
     "name": "Birthday Cake",
     "mana": 2,
-    "rarity": "common",
+    "rarity": "uncommon",
     "image": "",
     "type": "trick",
     "tags": [
@@ -200,10 +217,10 @@
     ]
   },
   {
-    "id": 13,
+    "id": 14,
     "name": "Blaze",
     "mana": 1,
-    "rarity": "common",
+    "rarity": "rare",
     "image": "",
     "type": "mob",
     "attack": 1,
@@ -217,10 +234,10 @@
     ]
   },
   {
-    "id": 14,
+    "id": 15,
     "name": "Boat",
     "mana": 2,
-    "rarity": "common",
+    "rarity": "uncommon",
     "image": "",
     "type": "mob",
     "attack": 2,
@@ -234,27 +251,27 @@
     ]
   },
   {
-    "id": 15,
-    "name": "Bookshelf",
-    "mana": 3,
-    "rarity": "common",
+    "id": 16,
+    "name": "Bogged",
+    "mana": 4,
+    "rarity": "uncommon",
     "image": "",
     "type": "mob",
-    "attack": 2,
+    "attack": 3,
     "health": 4,
     "tags": [
-      "Village"
+      "Undead"
     ],
     "description": [
       "When Played.",
-      "Draw 2 cards, the opponent draws 1."
+      "Give an enemy mob -2🗡/-2❤, if it dies, heal the user equal to its ⭐."
     ]
   },
   {
-    "id": 16,
+    "id": 17,
     "name": "Bomber",
     "mana": 3,
-    "rarity": "common",
+    "rarity": "epic",
     "image": "",
     "type": "mob",
     "attack": 3,
@@ -269,10 +286,10 @@
     ]
   },
   {
-    "id": 17,
+    "id": 18,
     "name": "Bombshell",
     "mana": 2,
-    "rarity": "common",
+    "rarity": "uncommon",
     "image": "",
     "type": "trick",
     "tags": [
@@ -283,41 +300,108 @@
     ]
   },
   {
-    "id": 18,
+    "id": 19,
+    "name": "Bookshelf",
+    "mana": 3,
+    "rarity": "uncommon",
+    "image": "",
+    "type": "mob",
+    "attack": 2,
+    "health": 4,
+    "tags": [
+      "Village"
+    ],
+    "description": [
+      "When Played.",
+      "Draw 2 cards, the opponent draws 1."
+    ]
+  },
+  {
+    "id": 20,
     "name": "Brown Mooshroom",
     "mana": 2,
-    "rarity": "common",
+    "rarity": "epic",
     "image": "",
     "type": "mob",
     "attack": 1,
-    "health": 4,
+    "health": 3,
     "tags": [
       "Pet"
     ],
     "description": [
-      "When the user draws a card.",
-      "Shuffle a Brown Mushroom into the users deck."
+      "When this hurts an enemy mob.",
+      "Conjure a Brown Mushroom."
     ]
   },
   {
-    "id": 19,
+    "id": 21,
     "name": "Bucket of Cod",
     "mana": 1,
-    "rarity": "common",
+    "rarity": "uncommon",
     "image": "",
     "type": "trick",
     "tags": [
-      "Ocean"
+      "Ocean",
+      "Bucket"
     ],
     "description": [
       "Summon a Cod on an Ally or Enemy tile."
     ]
   },
   {
-    "id": 20,
+    "id": 22,
+    "name": "Burger",
+    "mana": 1,
+    "rarity": "rare",
+    "image": "",
+    "type": "mob",
+    "attack": 1,
+    "health": 1,
+    "tags": [
+      "Gourmet"
+    ],
+    "description": [
+      "On Death.",
+      "Conjure a gourmet trick, it costs -1⭐."
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Butcher",
+    "mana": 1,
+    "rarity": "uncommon",
+    "image": "",
+    "type": "mob",
+    "attack": 1,
+    "health": 2,
+    "tags": [
+      "Village"
+    ],
+    "description": [
+      "When an ally mob kills an enemy mob.",
+      "It gains +1🗡/+1❤."
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Cactus",
+    "mana": 2,
+    "rarity": "rare",
+    "image": "",
+    "type": "mob",
+    "attack": 1,
+    "health": 3,
+    "tags": [],
+    "description": [
+      "When an ally mob dies.",
+      "Heal user for 2❤, and this gains +1❤."
+    ]
+  },
+  {
+    "id": 25,
     "name": "Camel",
     "mana": 5,
-    "rarity": "common",
+    "rarity": "rare",
     "image": "",
     "type": "mob",
     "attack": 4,
@@ -331,13 +415,13 @@
     ]
   },
   {
-    "id": 21,
+    "id": 26,
     "name": "Cat",
     "mana": 2,
-    "rarity": "common",
+    "rarity": "uncommon",
     "image": "",
     "type": "mob",
-    "attack": 1,
+    "attack": 2,
     "health": 3,
     "tags": [
       "Pet"
@@ -348,16 +432,17 @@
     ]
   },
   {
-    "id": 22,
+    "id": 27,
     "name": "Catapult",
-    "mana": 5,
-    "rarity": "common",
+    "mana": 4,
+    "rarity": "legendary",
     "image": "",
     "type": "mob",
-    "attack": 1,
-    "health": 4,
+    "attack": 2,
+    "health": 3,
     "tags": [
-      "Machine Village"
+      "Machine",
+      "Village"
     ],
     "description": [
       "When Played.",
@@ -365,10 +450,10 @@
     ]
   },
   {
-    "id": 23,
+    "id": 28,
     "name": "Cave Spider",
     "mana": 1,
-    "rarity": "common",
+    "rarity": "uncommon",
     "image": "",
     "type": "mob",
     "attack": 2,
@@ -382,24 +467,22 @@
     ]
   },
   {
-    "id": 24,
+    "id": 29,
     "name": "Chainmail",
     "mana": 2,
-    "rarity": "common",
+    "rarity": "uncommon",
     "image": "",
     "type": "trick",
-    "tags": [
-      ""
-    ],
+    "tags": [],
     "description": [
       "Give all ally mobs +2❤."
     ]
   },
   {
-    "id": 25,
+    "id": 30,
     "name": "Chicken",
     "mana": 2,
-    "rarity": "common",
+    "rarity": "uncommon",
     "image": "",
     "type": "mob",
     "attack": 3,
@@ -413,27 +496,28 @@
     ]
   },
   {
-    "id": 26,
+    "id": 31,
     "name": "Chorus Stem",
-    "mana": 2,
-    "rarity": "common",
+    "mana": 1,
+    "rarity": "uncommon",
     "image": "",
     "type": "mob",
     "attack": 1,
-    "health": 4,
+    "health": 3,
     "tags": [
       "End"
     ],
     "description": [
       "When Hurt.",
-      "Move to a random lane. When this enters a lane give all adjacent end mobs +1/+1."
+      "Move to a random lane.",
+      "When this enters a lane give all adjacent end mobs +1/+1."
     ]
   },
   {
-    "id": 27,
+    "id": 32,
     "name": "Circus Cannon",
     "mana": 2,
-    "rarity": "common",
+    "rarity": "rare",
     "image": "",
     "type": "mob",
     "attack": 1,
@@ -447,27 +531,44 @@
     ]
   },
   {
-    "id": 28,
+    "id": 33,
     "name": "Cleric",
     "mana": 4,
-    "rarity": "common",
+    "rarity": "legendary",
     "image": "",
     "type": "mob",
-    "attack": 3,
-    "health": 4,
+    "attack": 2,
+    "health": 3,
     "tags": [
       "Village"
     ],
     "description": [
-      "Start of Turn.",
+      "When Played and Start of Turn.",
       "Transform an ally mob into 1 that costs 1 more."
     ]
   },
   {
-    "id": 29,
+    "id": 34,
+    "name": "Command Block",
+    "mana": 9,
+    "rarity": "legendary",
+    "image": "",
+    "type": "mob",
+    "attack": 9,
+    "health": 9,
+    "tags": [
+      "Machine"
+    ],
+    "description": [
+      "When Played.",
+      "Transform all mobs into the users hand into command blocks that cost 0⭐."
+    ]
+  },
+  {
+    "id": 35,
     "name": "Combustor",
     "mana": 3,
-    "rarity": "common",
+    "rarity": "epic",
     "image": "",
     "type": "mob",
     "attack": 3,
@@ -481,10 +582,10 @@
     ]
   },
   {
-    "id": 30,
+    "id": 36,
     "name": "Composter",
     "mana": 1,
-    "rarity": "common",
+    "rarity": "uncommon",
     "image": "",
     "type": "mob",
     "attack": 0,
@@ -498,10 +599,28 @@
     ]
   },
   {
-    "id": 31,
+    "id": 37,
+    "name": "Compressor",
+    "mana": 3,
+    "rarity": "rare",
+    "image": "",
+    "type": "mob",
+    "attack": 3,
+    "health": 3,
+    "tags": [
+      "Machine"
+    ],
+    "description": [
+      "When Played.",
+      "Kill an ally mob, gain 1⭐  this turn for each ⭐  it costed.",
+      "Draw a card."
+    ]
+  },
+  {
+    "id": 38,
     "name": "Conduit",
     "mana": 6,
-    "rarity": "common",
+    "rarity": "legendary",
     "image": "",
     "type": "mob",
     "attack": 5,
@@ -510,21 +629,22 @@
       "Ocean"
     ],
     "description": [
-      "When Played and Start of Turn.",
-      "Summon a random ocean mob on an ally tile costing 2⭐ or more."
+      "When played and start of turn.",
+      "Summon an Ocean Mob that costs between 2 ⭐ and 4 ⭐ on another ally tile."
     ]
   },
   {
-    "id": 32,
+    "id": 39,
     "name": "Copper Golem",
     "mana": 5,
-    "rarity": "common",
+    "rarity": "rare",
     "image": "",
     "type": "mob",
     "attack": 4,
     "health": 4,
     "tags": [
-      "Village Machine"
+      "Village",
+      "Machine"
     ],
     "description": [
       "While in Hand.",
@@ -532,10 +652,10 @@
     ]
   },
   {
-    "id": 33,
+    "id": 40,
     "name": "Cow",
     "mana": 2,
-    "rarity": "common",
+    "rarity": "epic",
     "image": "",
     "type": "mob",
     "attack": 2,
@@ -549,7 +669,7 @@
     ]
   },
   {
-    "id": 34,
+    "id": 41,
     "name": "Creeper",
     "mana": 2,
     "rarity": "common",
@@ -557,58 +677,102 @@
     "type": "mob",
     "attack": 2,
     "health": 2,
-    "tags": [
-      ""
-    ],
+    "tags": [],
     "description": [
       "While in Play.",
-      "If there is no enemy mob facing this.",
-      "Gain +2🗡."
+      "If there is no enemy mob facing this: Gain +2🗡."
     ]
   },
   {
-    "id": 35,
+    "id": 42,
     "name": "Cryosleep",
     "mana": 1,
-    "rarity": "common",
+    "rarity": "epic",
     "image": "",
     "type": "trick",
     "tags": [
       "Machine",
-      "Ice",
-      ""
+      "Ice"
     ],
     "description": [
       "Give an ally mob +2/+2, and stun it."
     ]
   },
   {
-    "id": 36,
+    "id": 43,
+    "name": "Dave 9000",
+    "mana": 7,
+    "rarity": "legendary",
+    "image": "",
+    "type": "mob",
+    "attack": 5,
+    "health": 7,
+    "tags": [
+      "Machine",
+      "Village"
+    ],
+    "description": [
+      "When an ally village mob kills an enemy mob.",
+      "This gets +1🗡/+1❤ and then does 3 damage down the lane."
+    ]
+  },
+  {
+    "id": 44,
+    "name": "Daylight Detector",
+    "mana": 1,
+    "rarity": "rare",
+    "image": "",
+    "type": "mob",
+    "attack": 2,
+    "health": 1,
+    "tags": [
+      "Machine"
+    ],
+    "description": [
+      "When the user passes.",
+      "Gain +1/+1 if they had leftover mana."
+    ]
+  },
+  {
+    "id": 45,
     "name": "Dead Bush",
     "mana": 1,
-    "rarity": "common",
+    "rarity": "uncommon",
     "image": "",
     "type": "mob",
     "attack": 1,
     "health": 2,
-    "tags": [
-      ""
-    ],
+    "tags": [],
     "description": [
       "When Played Shuffle a very dead bush on top of the opponents deck."
     ]
   },
   {
-    "id": 37,
+    "id": 46,
+    "name": "Dinnerbone",
+    "mana": 5,
+    "rarity": "legendary",
+    "image": "",
+    "type": "mob",
+    "attack": 0,
+    "health": 6,
+    "tags": [],
+    "description": [
+      "All mobs attack with their ❤ instead of their 🗡."
+    ]
+  },
+  {
+    "id": 47,
     "name": "Dolphin",
     "mana": 2,
-    "rarity": "common",
+    "rarity": "uncommon",
     "image": "",
     "type": "mob",
     "attack": 1,
     "health": 2,
     "tags": [
-      "Ocean Pet Mob"
+      "Ocean",
+      "Pet"
     ],
     "description": [
       "While Alive.",
@@ -616,10 +780,10 @@
     ]
   },
   {
-    "id": 38,
+    "id": 48,
     "name": "Donkey",
     "mana": 2,
-    "rarity": "common",
+    "rarity": "uncommon",
     "image": "",
     "type": "mob",
     "attack": 2,
@@ -629,15 +793,28 @@
     ],
     "description": [
       "When Played.",
-      "Choose an ally mob.",
-      "Conjure a card that shares a class with that card."
+      "Choose an ally mob: Conjure a card that shares a class with that card."
     ]
   },
   {
-    "id": 39,
+    "id": 49,
+    "name": "Dragons Chest",
+    "mana": 2,
+    "rarity": "epic",
+    "image": "",
+    "type": "trick",
+    "tags": [
+      "End"
+    ],
+    "description": [
+      "Conjure a mob that costs 5⭐ or more, it costs -1⭐."
+    ]
+  },
+  {
+    "id": 50,
     "name": "Drowned",
     "mana": 3,
-    "rarity": "common",
+    "rarity": "rare",
     "image": "",
     "type": "mob",
     "attack": 3,
@@ -651,10 +828,22 @@
     ]
   },
   {
-    "id": 40,
+    "id": 51,
+    "name": "Early Presents",
+    "mana": 1,
+    "rarity": "rare",
+    "image": "",
+    "type": "trick",
+    "tags": [],
+    "description": [
+      "Conjure a Trick that costs 2⭐, it costs -1⭐."
+    ]
+  },
+  {
+    "id": 52,
     "name": "Elder Guardian",
     "mana": 4,
-    "rarity": "common",
+    "rarity": "legendary",
     "image": "",
     "type": "mob",
     "attack": 3,
@@ -667,24 +856,22 @@
     ]
   },
   {
-    "id": 41,
+    "id": 53,
     "name": "Elixir",
     "mana": 3,
-    "rarity": "common",
+    "rarity": "rare",
     "image": "",
     "type": "trick",
-    "tags": [
-      ""
-    ],
+    "tags": [],
     "description": [
       "Give an ally mob +2/+1 and Frenzy."
     ]
   },
   {
-    "id": 42,
+    "id": 54,
     "name": "Enchantment Table",
     "mana": 3,
-    "rarity": "common",
+    "rarity": "epic",
     "image": "",
     "type": "mob",
     "attack": 1,
@@ -693,15 +880,15 @@
       "Village"
     ],
     "description": [
-      "While Alive.",
-      "The users tricks Costs -1⭐."
+      "The first time each turn the user plays a trick.",
+      "Gain +2⭐."
     ]
   },
   {
-    "id": 43,
+    "id": 55,
     "name": "End Crystal",
     "mana": 3,
-    "rarity": "common",
+    "rarity": "rare",
     "image": "",
     "type": "mob",
     "attack": 2,
@@ -715,10 +902,10 @@
     ]
   },
   {
-    "id": 44,
+    "id": 56,
     "name": "End Ship",
     "mana": 5,
-    "rarity": "common",
+    "rarity": "epic",
     "image": "",
     "type": "mob",
     "attack": 1,
@@ -729,15 +916,14 @@
     ],
     "description": [
       "Overshoot.",
-      "When this hurts the opponent.",
-      "Move to a random ally tile and leave behind a Mystery Egg."
+      "When this hurts the opponent: Move to a random ally tile and leave behind a Mystery Egg."
     ]
   },
   {
-    "id": 45,
+    "id": 57,
     "name": "Ender Dragon",
     "mana": 12,
-    "rarity": "common",
+    "rarity": "legendary",
     "image": "",
     "type": "mob",
     "attack": 7,
@@ -747,16 +933,16 @@
     ],
     "description": [
       "Frenzy.",
-      "While in Hand.",
-      "Costs -1⭐  when the user plays an end mob, When Played.",
+      "While in Hand: Costs -1⭐  when the user plays an end mob.",
+      "When Played.",
       "Summon end crystals in adjacent ally tiles."
     ]
   },
   {
-    "id": 46,
+    "id": 58,
     "name": "Enderman",
     "mana": 3,
-    "rarity": "common",
+    "rarity": "uncommon",
     "image": "",
     "type": "mob",
     "attack": 3,
@@ -770,39 +956,26 @@
     ]
   },
   {
-    "id": 47,
-    "name": "Endermite",
-    "mana": 1,
-    "rarity": "common",
-    "image": "",
-    "type": "mob",
-    "attack": 2,
-    "health": 1,
-    "tags": [
-      "End Arthropod Token"
-    ],
-    "description": []
-  },
-  {
-    "id": 48,
+    "id": 59,
     "name": "Entomb",
     "mana": 1,
-    "rarity": "common",
+    "rarity": "rare",
     "image": "",
     "type": "trick",
     "tags": [
       "Undead"
     ],
     "description": [
-      "Transform an ally mob into a tombstone, draw a card. Tombstone 1-0-1 On Death.",
+      "Transform an ally mob into a tombstone, draw a card.",
+      "Tombstone 1-0-1 On Death.",
       "Summon here the mob that transformed into this."
     ]
   },
   {
-    "id": 49,
+    "id": 60,
     "name": "Evoker",
-    "mana": 4,
-    "rarity": "common",
+    "mana": 5,
+    "rarity": "legendary",
     "image": "",
     "type": "mob",
     "attack": 2,
@@ -812,46 +985,46 @@
     ],
     "description": [
       "When the user conjures a card.",
-      "Deal 2 damage to the nearest enemy. When Played.",
+      "Deal 2 damage to the nearest enemy.",
+      "When Played.",
       "Conjure a vex."
     ]
   },
   {
-    "id": 50,
+    "id": 61,
     "name": "Excavation",
     "mana": 2,
-    "rarity": "common",
+    "rarity": "epic",
     "image": "",
     "type": "trick",
     "tags": [
       "Undead"
     ],
     "description": [
-      "Shuffle 3 pot of golds into the users deck, draw a card. (2⭐ Draw 3 cards)."
+      "Shuffle 3 pot of golds into the users deck, draw a card.",
+      "(2⭐ Draw 3 cards)."
     ]
   },
   {
-    "id": 51,
+    "id": 62,
     "name": "Explosive Barrel",
     "mana": 2,
-    "rarity": "common",
+    "rarity": "uncommon",
     "image": "",
     "type": "mob",
     "attack": 0,
     "health": 1,
-    "tags": [
-      ""
-    ],
+    "tags": [],
     "description": [
       "On Death.",
       "Deal 1 damage to all enemy mobs, then this transforms into a random 1⭐ mob in the users deck."
     ]
   },
   {
-    "id": 52,
+    "id": 63,
     "name": "Faction Banner",
     "mana": 2,
-    "rarity": "common",
+    "rarity": "epic",
     "image": "",
     "type": "mob",
     "attack": 1,
@@ -861,15 +1034,16 @@
     ],
     "description": [
       "When Played.",
-      "Choose an ally mob. While Alive.",
+      "Choose an ally mob.",
+      "While Alive.",
       "All ally mobs share that mobs traits and classes."
     ]
   },
   {
-    "id": 53,
+    "id": 64,
     "name": "Factory",
     "mana": 4,
-    "rarity": "common",
+    "rarity": "epic",
     "image": "",
     "type": "mob",
     "attack": 3,
@@ -883,24 +1057,24 @@
     ]
   },
   {
-    "id": 54,
+    "id": 65,
     "name": "Firework",
     "mana": 2,
-    "rarity": "common",
+    "rarity": "rare",
     "image": "",
     "type": "trick",
     "tags": [
       "Machine"
     ],
     "description": [
-      "Kill an ally mob to deal 4 damage to an enemy mob."
+      "Kill an ally mob to deal 5 damage to an enemy mob."
     ]
   },
   {
-    "id": 55,
+    "id": 66,
     "name": "Fletching Table",
     "mana": 1,
-    "rarity": "common",
+    "rarity": "uncommon",
     "image": "",
     "type": "mob",
     "attack": 1,
@@ -914,10 +1088,46 @@
     ]
   },
   {
-    "id": 56,
+    "id": 67,
+    "name": "Flying Machine",
+    "mana": 2,
+    "rarity": "epic",
+    "image": "",
+    "type": "mob",
+    "attack": 1,
+    "health": 3,
+    "tags": [
+      "Machine"
+    ],
+    "description": [
+      "When played on a Tower.",
+      "Move to another tile.",
+      "When this moves past an ally mob, that mob gains +1🗡/+1❤."
+    ]
+  },
+  {
+    "id": 68,
+    "name": "Fountain of Youth",
+    "mana": 7,
+    "rarity": "legendary",
+    "image": "",
+    "type": "mob",
+    "attack": 5,
+    "health": 5,
+    "tags": [
+      "Ocean",
+      "Village"
+    ],
+    "description": [
+      "When Played.",
+      "Increase the users max ❤ by 5, heal the user for 5❤."
+    ]
+  },
+  {
+    "id": 69,
     "name": "Fox",
     "mana": 2,
-    "rarity": "common",
+    "rarity": "uncommon",
     "image": "",
     "type": "mob",
     "attack": 3,
@@ -931,10 +1141,10 @@
     ]
   },
   {
-    "id": 57,
+    "id": 70,
     "name": "Frog",
     "mana": 2,
-    "rarity": "common",
+    "rarity": "rare",
     "image": "",
     "type": "mob",
     "attack": 2,
@@ -948,16 +1158,17 @@
     ]
   },
   {
-    "id": 58,
+    "id": 71,
     "name": "Gateway Protector",
     "mana": 4,
-    "rarity": "common",
+    "rarity": "uncommon",
     "image": "",
     "type": "mob",
     "attack": 2,
     "health": 4,
     "tags": [
-      "End Machine"
+      "End",
+      "Machine"
     ],
     "description": [
       "When Played.",
@@ -965,24 +1176,25 @@
     ]
   },
   {
-    "id": 59,
+    "id": 72,
     "name": "Genetic Mutation",
     "mana": 2,
-    "rarity": "common",
+    "rarity": "legendary",
     "image": "",
     "type": "trick",
     "tags": [
-      "End Machine"
+      "End",
+      "Machine"
     ],
     "description": [
       "Transform an ally mob into one that costs +1⭐, draw a card."
     ]
   },
   {
-    "id": 60,
+    "id": 73,
     "name": "Glow Squid",
     "mana": 1,
-    "rarity": "common",
+    "rarity": "rare",
     "image": "",
     "type": "mob",
     "attack": 1,
@@ -996,10 +1208,10 @@
     ]
   },
   {
-    "id": 61,
+    "id": 74,
     "name": "Go Fish",
     "mana": 1,
-    "rarity": "common",
+    "rarity": "uncommon",
     "image": "",
     "type": "trick",
     "tags": [
@@ -1010,10 +1222,10 @@
     ]
   },
   {
-    "id": 62,
+    "id": 75,
     "name": "Goat",
     "mana": 1,
-    "rarity": "common",
+    "rarity": "uncommon",
     "image": "",
     "type": "mob",
     "attack": 1,
@@ -1026,10 +1238,10 @@
     ]
   },
   {
-    "id": 63,
+    "id": 76,
     "name": "Grim Reaper",
     "mana": 4,
-    "rarity": "common",
+    "rarity": "rare",
     "image": "",
     "type": "mob",
     "attack": 3,
@@ -1043,10 +1255,10 @@
     ]
   },
   {
-    "id": 64,
+    "id": 77,
     "name": "Grindstone",
     "mana": 1,
-    "rarity": "common",
+    "rarity": "uncommon",
     "image": "",
     "type": "trick",
     "tags": [
@@ -1057,10 +1269,10 @@
     ]
   },
   {
-    "id": 65,
+    "id": 78,
     "name": "Guardian",
     "mana": 1,
-    "rarity": "common",
+    "rarity": "epic",
     "image": "",
     "type": "mob",
     "attack": 1,
@@ -1074,10 +1286,10 @@
     ]
   },
   {
-    "id": 66,
+    "id": 79,
     "name": "Hawks Eye",
     "mana": 2,
-    "rarity": "common",
+    "rarity": "uncommon",
     "image": "",
     "type": "trick",
     "tags": [
@@ -1088,10 +1300,10 @@
     ]
   },
   {
-    "id": 67,
+    "id": 80,
     "name": "Heart of the Sea",
     "mana": 1,
-    "rarity": "common",
+    "rarity": "uncommon",
     "image": "",
     "type": "trick",
     "tags": [
@@ -1102,7 +1314,7 @@
     ]
   },
   {
-    "id": 68,
+    "id": 81,
     "name": "Herbed Chicken",
     "mana": 4,
     "rarity": "common",
@@ -1116,10 +1328,10 @@
     ]
   },
   {
-    "id": 69,
+    "id": 82,
     "name": "Horse",
     "mana": 2,
-    "rarity": "common",
+    "rarity": "rare",
     "image": "",
     "type": "mob",
     "attack": 2,
@@ -1133,10 +1345,10 @@
     ]
   },
   {
-    "id": 70,
+    "id": 83,
     "name": "Husk",
     "mana": 1,
-    "rarity": "common",
+    "rarity": "epic",
     "image": "",
     "type": "mob",
     "attack": 2,
@@ -1149,16 +1361,17 @@
     ]
   },
   {
-    "id": 71,
+    "id": 84,
     "name": "Iceologer",
     "mana": 2,
-    "rarity": "common",
+    "rarity": "epic",
     "image": "",
     "type": "mob",
     "attack": 2,
     "health": 3,
     "tags": [
-      "Ice Village"
+      "Ice",
+      "Village"
     ],
     "description": [
       "When an enemy mob is Stunned.",
@@ -1166,10 +1379,10 @@
     ]
   },
   {
-    "id": 72,
+    "id": 85,
     "name": "Igloo",
     "mana": 3,
-    "rarity": "common",
+    "rarity": "uncommon",
     "image": "",
     "type": "mob",
     "attack": 2,
@@ -1179,33 +1392,34 @@
     ],
     "description": [
       "When Played.",
-      "Conjure a snowball, Whenever the user stuns a mob.",
+      "Conjure a snowball.",
+      "Whenever the user stuns a mob.",
       "Gains +1❤."
     ]
   },
   {
-    "id": 73,
+    "id": 86,
     "name": "Illusioner",
     "mana": 2,
-    "rarity": "common",
+    "rarity": "epic",
     "image": "",
     "type": "mob",
     "attack": 3,
     "health": 2,
     "tags": [
-      "Ice Village"
+      "Ice",
+      "Village"
     ],
     "description": [
       "When Played.",
-      "Choose an ally mob.",
-      "Swap places with it."
+      "Choose an ally mob: Swap places with it."
     ]
   },
   {
-    "id": 74,
+    "id": 87,
     "name": "Incinerate",
     "mana": 3,
-    "rarity": "common",
+    "rarity": "rare",
     "image": "",
     "type": "trick",
     "tags": [
@@ -1216,16 +1430,17 @@
     ]
   },
   {
-    "id": 75,
+    "id": 88,
     "name": "Iron Golem",
     "mana": 5,
-    "rarity": "common",
+    "rarity": "rare",
     "image": "",
     "type": "mob",
     "attack": 3,
     "health": 3,
     "tags": [
-      "Machine Village"
+      "Machine",
+      "Village"
     ],
     "description": [
       "When Played.",
@@ -1233,10 +1448,10 @@
     ]
   },
   {
-    "id": 76,
+    "id": 89,
     "name": "Jukebox",
     "mana": 1,
-    "rarity": "common",
+    "rarity": "rare",
     "image": "",
     "type": "mob",
     "attack": 2,
@@ -1250,24 +1465,22 @@
     ]
   },
   {
-    "id": 77,
+    "id": 90,
     "name": "Late Presents",
     "mana": 3,
-    "rarity": "common",
+    "rarity": "legendary",
     "image": "",
     "type": "trick",
-    "tags": [
-      ""
-    ],
+    "tags": [],
     "description": [
       "Conjure 3 tricks, the opponent draws a card."
     ]
   },
   {
-    "id": 78,
+    "id": 91,
     "name": "Llama",
     "mana": 2,
-    "rarity": "common",
+    "rarity": "uncommon",
     "image": "",
     "type": "mob",
     "attack": 1,
@@ -1281,16 +1494,18 @@
     ]
   },
   {
-    "id": 79,
+    "id": 92,
     "name": "Lodestone",
     "mana": 1,
-    "rarity": "common",
+    "rarity": "rare",
     "image": "",
     "type": "mob",
     "attack": 1,
     "health": 2,
     "tags": [
-      "Nether Machine End"
+      "Nether",
+      "Machine",
+      "End"
     ],
     "description": [
       "When an ally mob is transformed.",
@@ -1298,28 +1513,29 @@
     ]
   },
   {
-    "id": 80,
+    "id": 93,
     "name": "Magma Cannon",
     "mana": 1,
-    "rarity": "common",
+    "rarity": "epic",
     "image": "",
     "type": "mob",
     "attack": 0,
     "health": 3,
     "tags": [
-      "Nether Machine"
+      "Nether",
+      "Machine"
     ],
     "description": [
       "When Played.",
-      "Deal 1 damage down the lane, When the user plays a Nether Mob.",
-      "Deal 1 damage down the lane."
+      "Deal 1 damage down the lane.",
+      "When the user plays a Nether Mob."
     ]
   },
   {
-    "id": 81,
+    "id": 94,
     "name": "Magma Cube",
     "mana": 1,
-    "rarity": "common",
+    "rarity": "uncommon",
     "image": "",
     "type": "mob",
     "attack": 1,
@@ -1333,56 +1549,70 @@
     ]
   },
   {
-    "id": 82,
+    "id": 95,
     "name": "Mana Flask",
     "mana": 2,
-    "rarity": "common",
+    "rarity": "uncommon",
     "image": "",
     "type": "trick",
-    "tags": [
-      ""
-    ],
+    "tags": [],
     "description": [
       "For Each Turn After This.",
       "The user makes +1⭐."
     ]
   },
   {
-    "id": 83,
+    "id": 96,
     "name": "Mana Vessel",
     "mana": 3,
-    "rarity": "common",
+    "rarity": "rare",
     "image": "",
     "type": "mob",
     "attack": 1,
     "health": 5,
-    "tags": [
-      ""
-    ],
+    "tags": [],
     "description": [
       "When Hurt.",
       "The user gets +1⭐ next turn."
     ]
   },
   {
-    "id": 84,
+    "id": 97,
     "name": "Milk Bucket",
     "mana": 2,
-    "rarity": "common",
+    "rarity": "uncommon",
     "image": "",
     "type": "trick",
     "tags": [
-      "Gourmet"
+      "Gourmet",
+      "Bucket"
     ],
     "description": [
       "Heal the user or an ally mob for 3, draw a card."
     ]
   },
   {
-    "id": 85,
+    "id": 98,
+    "name": "Misfit Magacian",
+    "mana": 3,
+    "rarity": "epic",
+    "image": "",
+    "type": "mob",
+    "attack": 2,
+    "health": 3,
+    "tags": [
+      "Undead"
+    ],
+    "description": [
+      "When this hurts the opponent.",
+      "Transform the enemy mob with the highest  🗡 into a rabbit."
+    ]
+  },
+  {
+    "id": 99,
     "name": "Mooshroom",
     "mana": 2,
-    "rarity": "common",
+    "rarity": "epic",
     "image": "",
     "type": "mob",
     "attack": 0,
@@ -1396,14 +1626,14 @@
     ]
   },
   {
-    "id": 86,
+    "id": 100,
     "name": "Mortar",
     "mana": 2,
-    "rarity": "common",
+    "rarity": "rare",
     "image": "",
     "type": "mob",
     "attack": 1,
-    "health": 3,
+    "health": 4,
     "tags": [
       "Machine"
     ],
@@ -1413,10 +1643,10 @@
     ]
   },
   {
-    "id": 87,
+    "id": 101,
     "name": "Mule",
     "mana": 3,
-    "rarity": "common",
+    "rarity": "uncommon",
     "image": "",
     "type": "mob",
     "attack": 1,
@@ -1430,16 +1660,17 @@
     ]
   },
   {
-    "id": 88,
+    "id": 102,
     "name": "Mystery Egg",
     "mana": 1,
-    "rarity": "common",
+    "rarity": "uncommon",
     "image": "",
     "type": "mob",
     "attack": 0,
     "health": 2,
     "tags": [
-      "End Pet"
+      "End",
+      "Pet"
     ],
     "description": [
       "Start of Turn.",
@@ -1447,26 +1678,25 @@
     ]
   },
   {
-    "id": 89,
+    "id": 103,
     "name": "Nether Portal",
     "mana": 3,
-    "rarity": "common",
+    "rarity": "epic",
     "image": "",
-    "type": "mob",
-    "attack": 0,
-    "health": 0,
+    "type": "trick",
     "tags": [
       "Nether"
     ],
     "description": [
-      "Bounce an enemy mob, if it had 3🗡 or less kill it instead."
+      "Bounce an enemy mob, if it had 3🗡 or less kill it instead.",
+      "Draw a card."
     ]
   },
   {
-    "id": 90,
+    "id": 104,
     "name": "Nether Tower",
     "mana": 4,
-    "rarity": "common",
+    "rarity": "uncommon",
     "image": "",
     "type": "mob",
     "attack": 3,
@@ -1476,29 +1706,28 @@
     ],
     "description": [
       "When Played.",
-      "Conjure a Blaze, While Alive.",
+      "Conjure a Blaze.",
+      "While Alive.",
       "All nether mobs in play +1."
     ]
   },
   {
-    "id": 91,
+    "id": 105,
     "name": "Not Today Thank You",
     "mana": 2,
-    "rarity": "common",
+    "rarity": "rare",
     "image": "",
     "type": "trick",
-    "tags": [
-      ""
-    ],
+    "tags": [],
     "description": [
       "An ally mob cant take any damage this turn."
     ]
   },
   {
-    "id": 92,
+    "id": 106,
     "name": "Observer",
     "mana": 2,
-    "rarity": "common",
+    "rarity": "uncommon",
     "image": "",
     "type": "mob",
     "attack": 2,
@@ -1512,25 +1741,40 @@
     ]
   },
   {
-    "id": 93,
+    "id": 107,
+    "name": "Ominous Banner",
+    "mana": 1,
+    "rarity": "uncommon",
+    "image": "",
+    "type": "mob",
+    "attack": 0,
+    "health": 3,
+    "tags": [
+      "Village"
+    ],
+    "description": [
+      "On Death.",
+      "All ally village mobs alive and in the users hand get +1🗡/+1❤."
+    ]
+  },
+  {
+    "id": 108,
     "name": "Painting",
     "mana": 1,
-    "rarity": "common",
+    "rarity": "epic",
     "image": "",
     "type": "trick",
-    "tags": [
-      ""
-    ],
+    "tags": [],
     "description": [
       "Choose an ally mob.",
       "Shuffle 4 copies of it into your deck, draw a card."
     ]
   },
   {
-    "id": 94,
+    "id": 109,
     "name": "Panda",
     "mana": 4,
-    "rarity": "common",
+    "rarity": "rare",
     "image": "",
     "type": "mob",
     "attack": 2,
@@ -1544,10 +1788,10 @@
     ]
   },
   {
-    "id": 95,
+    "id": 110,
     "name": "Phantom",
     "mana": 2,
-    "rarity": "common",
+    "rarity": "uncommon",
     "image": "",
     "type": "mob",
     "attack": 2,
@@ -1560,10 +1804,10 @@
     ]
   },
   {
-    "id": 96,
+    "id": 111,
     "name": "Pig",
     "mana": 3,
-    "rarity": "common",
+    "rarity": "rare",
     "image": "",
     "type": "mob",
     "attack": 1,
@@ -1573,12 +1817,13 @@
     ],
     "description": [
       "When Played.",
-      "Give an ally mob +2🗡 +2❤, when hurt.",
+      "Give an ally mob +2🗡 +2❤.",
+      "when hurt.",
       "bounce this mob and set its ❤  to 1."
     ]
   },
   {
-    "id": 97,
+    "id": 112,
     "name": "Piglin",
     "mana": 4,
     "rarity": "common",
@@ -1587,23 +1832,25 @@
     "attack": 4,
     "health": 4,
     "tags": [
-      "Undead Nether"
+      "Undead",
+      "Nether"
     ],
     "description": [
       "Hunt When this kills an enemy mob, draw a card."
     ]
   },
   {
-    "id": 98,
+    "id": 113,
     "name": "Piglin Brute",
     "mana": 3,
-    "rarity": "common",
+    "rarity": "rare",
     "image": "",
     "type": "mob",
     "attack": 3,
     "health": 3,
     "tags": [
-      "Undead Nether"
+      "Undead",
+      "Nether"
     ],
     "description": [
       "When an ally nether or undead mob is hurt.",
@@ -1611,10 +1858,10 @@
     ]
   },
   {
-    "id": 99,
+    "id": 114,
     "name": "Pillager",
     "mana": 3,
-    "rarity": "common",
+    "rarity": "epic",
     "image": "",
     "type": "mob",
     "attack": 2,
@@ -1627,7 +1874,7 @@
     ]
   },
   {
-    "id": 100,
+    "id": 115,
     "name": "Piston",
     "mana": 1,
     "rarity": "common",
@@ -1641,42 +1888,44 @@
     ]
   },
   {
-    "id": 101,
+    "id": 116,
     "name": "Polar Bear",
-    "mana": 3,
-    "rarity": "common",
+    "mana": 4,
+    "rarity": "rare",
     "image": "",
     "type": "mob",
     "attack": 3,
-    "health": 3,
+    "health": 4,
     "tags": [
       "Ice",
       "Pet"
     ],
     "description": [
       "When Played.",
-      "Kill an ally pet mob in play to gain +2🗡+1❤ and frenzy."
+      "If there is another ally Mob, kill it.",
+      "Then, stun all enemy Mobs here and next to this."
     ]
   },
   {
-    "id": 102,
+    "id": 117,
     "name": "Powdered Snow Bucket",
     "mana": 2,
-    "rarity": "common",
+    "rarity": "rare",
     "image": "",
     "type": "trick",
     "tags": [
-      "Ice"
+      "Ice",
+      "Bucket"
     ],
     "description": [
       "An ally mob gets +1🗡 +1❤ and Frostbite, draw a card."
     ]
   },
   {
-    "id": 103,
+    "id": 118,
     "name": "Pufferfish",
     "mana": 1,
-    "rarity": "common",
+    "rarity": "uncommon",
     "image": "",
     "type": "mob",
     "attack": 1,
@@ -1690,7 +1939,24 @@
     ]
   },
   {
-    "id": 104,
+    "id": 119,
+    "name": "Rainbow Sheep",
+    "mana": 4,
+    "rarity": "epic",
+    "image": "",
+    "type": "mob",
+    "attack": 3,
+    "health": 2,
+    "tags": [
+      "Pet"
+    ],
+    "description": [
+      "When this kills an enemy mob.",
+      "Summon a rainbow sheep on another ally tile."
+    ]
+  },
+  {
+    "id": 120,
     "name": "Ravager",
     "mana": 5,
     "rarity": "common",
@@ -1699,49 +1965,68 @@
     "attack": 5,
     "health": 5,
     "tags": [
-      "Village Pet"
+      "Village",
+      "Pet"
     ],
     "description": [
       "Frenzy."
     ]
   },
   {
-    "id": 105,
+    "id": 121,
+    "name": "Respawn Anchor",
+    "mana": 3,
+    "rarity": "epic",
+    "image": "",
+    "type": "mob",
+    "attack": 1,
+    "health": 4,
+    "tags": [
+      "Nether"
+    ],
+    "description": [
+      "When the user or an ally mob does damage.",
+      "This gets 1 charge.",
+      "When this gets 4 charges.",
+      "Deal 5 damage down this lane."
+    ]
+  },
+  {
+    "id": 122,
     "name": "Ritual",
     "mana": 1,
-    "rarity": "common",
+    "rarity": "epic",
     "image": "",
     "type": "mob",
     "attack": 0,
     "health": 0,
-    "tags": [
-      ""
-    ],
+    "tags": [],
     "description": [
       "Bounce an ally mob give it +2🗡 +2❤."
     ]
   },
   {
-    "id": 106,
+    "id": 123,
     "name": "Sattelite Dish",
     "mana": 2,
-    "rarity": "common",
+    "rarity": "legendary",
     "image": "",
     "type": "mob",
     "attack": 2,
     "health": 3,
     "tags": [
-      "Machine End"
+      "Machine",
+      "End"
     ],
     "description": [
       "Adjacent Ally Mobs Have Overshoot."
     ]
   },
   {
-    "id": 107,
+    "id": 124,
     "name": "Sheep",
     "mana": 2,
-    "rarity": "common",
+    "rarity": "uncommon",
     "image": "",
     "type": "mob",
     "attack": 1,
@@ -1755,10 +2040,10 @@
     ]
   },
   {
-    "id": 108,
+    "id": 125,
     "name": "Shulker",
     "mana": 3,
-    "rarity": "common",
+    "rarity": "rare",
     "image": "",
     "type": "mob",
     "attack": 1,
@@ -1772,10 +2057,10 @@
     ]
   },
   {
-    "id": 109,
+    "id": 126,
     "name": "Silverfish",
     "mana": 1,
-    "rarity": "common",
+    "rarity": "epic",
     "image": "",
     "type": "mob",
     "attack": 2,
@@ -1789,7 +2074,7 @@
     ]
   },
   {
-    "id": 110,
+    "id": 127,
     "name": "Skeleton",
     "mana": 2,
     "rarity": "common",
@@ -1800,13 +2085,15 @@
     "tags": [
       "Undead"
     ],
-    "description": []
+    "description": [
+      "nan."
+    ]
   },
   {
-    "id": 111,
+    "id": 128,
     "name": "Skeleton Horse",
     "mana": 4,
-    "rarity": "common",
+    "rarity": "epic",
     "image": "",
     "type": "mob",
     "attack": 5,
@@ -1820,27 +2107,25 @@
     ]
   },
   {
-    "id": 112,
+    "id": 129,
     "name": "Slime",
     "mana": 3,
-    "rarity": "common",
+    "rarity": "rare",
     "image": "",
     "type": "mob",
     "attack": 3,
     "health": 3,
-    "tags": [
-      ""
-    ],
+    "tags": [],
     "description": [
       "When an ally mob moves.",
       "It gets +1🗡 +1❤."
     ]
   },
   {
-    "id": 113,
-    "name": "Smite ",
+    "id": 130,
+    "name": "Smite",
     "mana": 1,
-    "rarity": "common",
+    "rarity": "epic",
     "image": "",
     "type": "trick",
     "tags": [
@@ -1852,10 +2137,10 @@
     ]
   },
   {
-    "id": 114,
+    "id": 131,
     "name": "Sniffer",
     "mana": 3,
-    "rarity": "common",
+    "rarity": "rare",
     "image": "",
     "type": "mob",
     "attack": 2,
@@ -1865,15 +2150,16 @@
     ],
     "description": [
       "When Played on a Tower.",
-      "Conjure a trick that costs 2⭐ or less. While Alive.",
-      "Cards the user conjures cost -1⭐,."
+      "Conjure a trick that costs 2⭐ or less.",
+      "While Alive.",
+      "Cards the user conjures cost -1⭐."
     ]
   },
   {
-    "id": 115,
+    "id": 132,
     "name": "Snow Cannon",
     "mana": 4,
-    "rarity": "common",
+    "rarity": "epic",
     "image": "",
     "type": "mob",
     "attack": 2,
@@ -1887,10 +2173,10 @@
     ]
   },
   {
-    "id": 116,
+    "id": 133,
     "name": "Snow Cauldron",
     "mana": 1,
-    "rarity": "common",
+    "rarity": "rare",
     "image": "",
     "type": "mob",
     "attack": 0,
@@ -1900,31 +2186,33 @@
     ],
     "description": [
       "When the user plays an ice card.",
-      "Fill this for 1, When Filled 3 Times.",
+      "Fill this for 1.",
+      "When Filled 3 Times.",
       "Empty this to gain +1⭐ and draw a card."
     ]
   },
   {
-    "id": 117,
+    "id": 134,
     "name": "Snow Golem",
     "mana": 2,
-    "rarity": "common",
+    "rarity": "uncommon",
     "image": "",
     "type": "mob",
     "attack": 1,
     "health": 4,
     "tags": [
-      "Ice Village"
+      "Ice",
+      "Village"
     ],
     "description": [
       "Frostbite."
     ]
   },
   {
-    "id": 118,
+    "id": 135,
     "name": "Snowball",
     "mana": 2,
-    "rarity": "common",
+    "rarity": "uncommon",
     "image": "",
     "type": "trick",
     "tags": [
@@ -1936,10 +2224,10 @@
     ]
   },
   {
-    "id": 119,
+    "id": 136,
     "name": "Spawner",
     "mana": 3,
-    "rarity": "common",
+    "rarity": "epic",
     "image": "",
     "type": "mob",
     "attack": 2,
@@ -1953,7 +2241,7 @@
     ]
   },
   {
-    "id": 120,
+    "id": 137,
     "name": "Spider",
     "mana": 2,
     "rarity": "common",
@@ -1970,10 +2258,10 @@
     ]
   },
   {
-    "id": 121,
+    "id": 138,
     "name": "Squid",
     "mana": 3,
-    "rarity": "common",
+    "rarity": "uncommon",
     "image": "",
     "type": "mob",
     "attack": 2,
@@ -1987,10 +2275,10 @@
     ]
   },
   {
-    "id": 122,
+    "id": 139,
     "name": "Stampede",
-    "mana": 3,
-    "rarity": "common",
+    "mana": 4,
+    "rarity": "rare",
     "image": "",
     "type": "mob",
     "attack": 0,
@@ -1999,14 +2287,14 @@
       "Pet"
     ],
     "description": [
-      "Deal 2 damage to all enemy mobs."
+      "Deal 3 damage to all enemy mobs."
     ]
   },
   {
-    "id": 123,
+    "id": 140,
     "name": "Stonecutter",
     "mana": 1,
-    "rarity": "common",
+    "rarity": "rare",
     "image": "",
     "type": "mob",
     "attack": 2,
@@ -2020,16 +2308,17 @@
     ]
   },
   {
-    "id": 124,
+    "id": 141,
     "name": "Stray",
     "mana": 4,
-    "rarity": "common",
+    "rarity": "epic",
     "image": "",
     "type": "mob",
     "attack": 4,
     "health": 4,
     "tags": [
-      "Undead Ice"
+      "Undead",
+      "Ice"
     ],
     "description": [
       "When Played.",
@@ -2037,34 +2326,53 @@
     ]
   },
   {
-    "id": 125,
+    "id": 142,
     "name": "Strider",
     "mana": 3,
-    "rarity": "common",
+    "rarity": "epic",
     "image": "",
     "type": "mob",
     "attack": 2,
     "health": 4,
     "tags": [
-      "Nether Pet"
+      "Nether",
+      "Pet"
     ],
     "description": [
       "When the user play a trick.",
-      "Move to another lane, When this mob moves.",
+      "Move to another lane.",
+      "When this mob moves.",
       "Deal 2 damage to an enemy mob here."
     ]
   },
   {
-    "id": 126,
+    "id": 143,
+    "name": "Sweet Berry Bush",
+    "mana": 2,
+    "rarity": "uncommon",
+    "image": "",
+    "type": "mob",
+    "attack": 1,
+    "health": 1,
+    "tags": [],
+    "description": [
+      "When the user or an ally mob heals.",
+      "Gain +1🗡/+1❤.",
+      "When Played Heal the user for 2."
+    ]
+  },
+  {
+    "id": 144,
     "name": "Teleporter",
     "mana": 2,
-    "rarity": "common",
+    "rarity": "legendary",
     "image": "",
     "type": "mob",
     "attack": 2,
     "health": 3,
     "tags": [
-      "End Machine"
+      "End",
+      "Machine"
     ],
     "description": [
       "When the user plays a machine card.",
@@ -2072,10 +2380,10 @@
     ]
   },
   {
-    "id": 127,
+    "id": 145,
     "name": "The Great Oak",
     "mana": 6,
-    "rarity": "common",
+    "rarity": "legendary",
     "image": "",
     "type": "mob",
     "attack": 4,
@@ -2089,25 +2397,23 @@
     ]
   },
   {
-    "id": 128,
+    "id": 146,
     "name": "The Moon",
     "mana": 7,
-    "rarity": "common",
+    "rarity": "legendary",
     "image": "",
     "type": "trick",
-    "tags": [
-      ""
-    ],
+    "tags": [],
     "description": [
       "Transform all ally mobs in play into ones costing.",
       "4⭐ or more."
     ]
   },
   {
-    "id": 129,
+    "id": 147,
     "name": "Titanuim Defender",
     "mana": 7,
-    "rarity": "common",
+    "rarity": "legendary",
     "image": "",
     "type": "mob",
     "attack": 5,
@@ -2121,10 +2427,10 @@
     ]
   },
   {
-    "id": 130,
+    "id": 148,
     "name": "TNT",
     "mana": 1,
-    "rarity": "common",
+    "rarity": "uncommon",
     "image": "",
     "type": "mob",
     "attack": 1,
@@ -2138,27 +2444,69 @@
     ]
   },
   {
-    "id": 131,
+    "id": 149,
+    "name": "Tower Guard",
+    "mana": 2,
+    "rarity": "uncommon",
+    "image": "",
+    "type": "mob",
+    "attack": 2,
+    "health": 1,
+    "tags": [
+      "Undead"
+    ],
+    "description": [
+      "When Played on a Tower.",
+      "Give an ally mob +3❤."
+    ]
+  },
+  {
+    "id": 150,
     "name": "Trampoline",
     "mana": 1,
-    "rarity": "common",
+    "rarity": "epic",
     "image": "",
     "type": "mob",
     "attack": 0,
     "health": 3,
-    "tags": [
-      ""
-    ],
+    "tags": [],
     "description": [
       "The first time each turn a mob is played adjacent to this one.",
       "Bounce it and give it -1⭐."
     ]
   },
   {
-    "id": 132,
+    "id": 151,
+    "name": "Treasure Map",
+    "mana": 1,
+    "rarity": "rare",
+    "image": "",
+    "type": "trick",
+    "tags": [],
+    "description": [
+      "Summon a Treasure chest on an enemy tile."
+    ]
+  },
+  {
+    "id": 152,
+    "name": "Trial Spawner",
+    "mana": 4,
+    "rarity": "epic",
+    "image": "",
+    "type": "mob",
+    "attack": 0,
+    "health": 4,
+    "tags": [],
+    "description": [
+      "When played and start of turn.",
+      "If there is an enemy mob here, summon an ally mob that costs 3⭐ on an ally tile."
+    ]
+  },
+  {
+    "id": 153,
     "name": "Trident",
     "mana": 3,
-    "rarity": "common",
+    "rarity": "epic",
     "image": "",
     "type": "trick",
     "tags": [
@@ -2169,10 +2517,10 @@
     ]
   },
   {
-    "id": 133,
+    "id": 154,
     "name": "Turret",
     "mana": 3,
-    "rarity": "common",
+    "rarity": "legendary",
     "image": "",
     "type": "mob",
     "attack": 2,
@@ -2186,10 +2534,10 @@
     ]
   },
   {
-    "id": 134,
+    "id": 155,
     "name": "Turtle",
     "mana": 4,
-    "rarity": "common",
+    "rarity": "rare",
     "image": "",
     "type": "mob",
     "attack": 2,
@@ -2199,20 +2547,22 @@
     ],
     "description": [
       "When Played.",
-      "Conjure a kelp, if there are 2 or more other oceans mobs in play, gain an extra. (1⭐  an ally mob gains +1🗡 +3❤)."
+      "Conjure a kelp, if there are 2 or more other oceans mobs in play, gain an extra.",
+      "(1⭐  an ally mob gains +1🗡 +3❤)."
     ]
   },
   {
-    "id": 135,
+    "id": 156,
     "name": "Vex",
     "mana": 1,
-    "rarity": "common",
+    "rarity": "rare",
     "image": "",
     "type": "mob",
     "attack": 2,
     "health": 1,
     "tags": [
-      "Undead Village"
+      "Undead",
+      "Village"
     ],
     "description": [
       "On Death.",
@@ -2220,10 +2570,10 @@
     ]
   },
   {
-    "id": 136,
+    "id": 157,
     "name": "Village Strike",
     "mana": 4,
-    "rarity": "common",
+    "rarity": "uncommon",
     "image": "",
     "type": "trick",
     "tags": [
@@ -2234,14 +2584,14 @@
     ]
   },
   {
-    "id": 137,
+    "id": 158,
     "name": "Villager",
     "mana": 2,
-    "rarity": "common",
+    "rarity": "uncommon",
     "image": "",
     "type": "mob",
-    "attack": 2,
-    "health": 2,
+    "attack": 1,
+    "health": 3,
     "tags": [
       "Village"
     ],
@@ -2251,10 +2601,10 @@
     ]
   },
   {
-    "id": 138,
+    "id": 159,
     "name": "Vindicator",
     "mana": 1,
-    "rarity": "common",
+    "rarity": "epic",
     "image": "",
     "type": "mob",
     "attack": 1,
@@ -2264,15 +2614,14 @@
     ],
     "description": [
       "While in Play.",
-      "When an ally mobs dies.",
-      "Gain 2🗡."
+      "When an ally mobs dies: Gain 2🗡."
     ]
   },
   {
-    "id": 139,
+    "id": 160,
     "name": "Wandering Trader",
     "mana": 3,
-    "rarity": "common",
+    "rarity": "uncommon",
     "image": "",
     "type": "mob",
     "attack": 2,
@@ -2282,29 +2631,65 @@
     ],
     "description": [
       "On Death.",
-      "Summon a Trader Llama Here.",
-      "(3⭐ 4🗡 3❤ no ability)."
+      "Summon a Trader Llama Here: (3⭐ 4🗡 3❤ no ability)."
     ]
   },
   {
-    "id": 140,
+    "id": 161,
+    "name": "Wart Farmer",
+    "mana": 2,
+    "rarity": "uncommon",
+    "image": "",
+    "type": "mob",
+    "attack": 1,
+    "health": 3,
+    "tags": [
+      "Nether",
+      "Village"
+    ],
+    "description": [
+      "When Played.",
+      "Conjure a nether wart."
+    ]
+  },
+  {
+    "id": 162,
     "name": "Water Bucket",
     "mana": 2,
-    "rarity": "common",
+    "rarity": "uncommon",
     "image": "",
     "type": "trick",
     "tags": [
-      "Ocean"
+      "Ocean",
+      "Bucket"
     ],
     "description": [
       "An enemy mob gets -2🗡 -2❤, if the user made at least 6⭐  draw a card and give it -3🗡 -3❤ instead."
     ]
   },
   {
-    "id": 141,
+    "id": 163,
+    "name": "Wishing Well",
+    "mana": 3,
+    "rarity": "uncommon",
+    "image": "",
+    "type": "mob",
+    "attack": 2,
+    "health": 5,
+    "tags": [
+      "Ocean",
+      "Village"
+    ],
+    "description": [
+      "The first time each turn the user plays a trick.",
+      "Conjure a bucket trick."
+    ]
+  },
+  {
+    "id": 164,
     "name": "Witch",
     "mana": 2,
-    "rarity": "common",
+    "rarity": "epic",
     "image": "",
     "type": "mob",
     "attack": 2,
@@ -2318,10 +2703,10 @@
     ]
   },
   {
-    "id": 142,
+    "id": 165,
     "name": "Wither",
     "mana": 8,
-    "rarity": "common",
+    "rarity": "legendary",
     "image": "",
     "type": "mob",
     "attack": 5,
@@ -2335,10 +2720,10 @@
     ]
   },
   {
-    "id": 143,
+    "id": 166,
     "name": "Wither Rose",
     "mana": 1,
-    "rarity": "common",
+    "rarity": "uncommon",
     "image": "",
     "type": "trick",
     "tags": [
@@ -2349,10 +2734,10 @@
     ]
   },
   {
-    "id": 144,
+    "id": 167,
     "name": "Wither Skeleton",
     "mana": 5,
-    "rarity": "common",
+    "rarity": "rare",
     "image": "",
     "type": "mob",
     "attack": 4,
@@ -2366,7 +2751,22 @@
     ]
   },
   {
-    "id": 145,
+    "id": 168,
+    "name": "Wither Skull",
+    "mana": 2,
+    "rarity": "rare",
+    "image": "",
+    "type": "trick",
+    "tags": [
+      "Nether",
+      "Undead"
+    ],
+    "description": [
+      "Deal 4 damage to an enemy mob, then shuffle a soul sand on top of the users deck."
+    ]
+  },
+  {
+    "id": 169,
     "name": "Wolf",
     "mana": 1,
     "rarity": "common",
@@ -2382,10 +2782,10 @@
     ]
   },
   {
-    "id": 146,
+    "id": 170,
     "name": "Wolf Hut",
     "mana": 3,
-    "rarity": "common",
+    "rarity": "rare",
     "image": "",
     "type": "mob",
     "attack": 0,
@@ -2399,7 +2799,7 @@
     ]
   },
   {
-    "id": 147,
+    "id": 171,
     "name": "Zombie",
     "mana": 1,
     "rarity": "common",
@@ -2410,13 +2810,15 @@
     "tags": [
       "Undead"
     ],
-    "description": []
+    "description": [
+      "nan."
+    ]
   },
   {
-    "id": 148,
+    "id": 172,
     "name": "Zombie Horse",
     "mana": 2,
-    "rarity": "common",
+    "rarity": "epic",
     "image": "",
     "type": "mob",
     "attack": 1,
@@ -2430,16 +2832,17 @@
     ]
   },
   {
-    "id": 149,
+    "id": 173,
     "name": "Zombie Pigman",
     "mana": 2,
-    "rarity": "common",
+    "rarity": "uncommon",
     "image": "",
     "type": "mob",
     "attack": 2,
     "health": 2,
     "tags": [
-      "Nether Undead"
+      "Nether",
+      "Undead"
     ],
     "description": [
       "When the user plays an undead card.",
@@ -2447,19 +2850,21 @@
     ]
   },
   {
-    "id": 150,
+    "id": 174,
     "name": "Zombie Villager",
     "mana": 2,
-    "rarity": "common",
+    "rarity": "rare",
     "image": "",
     "type": "mob",
     "attack": 2,
     "health": 3,
     "tags": [
-      "Undead Village"
+      "Undead",
+      "Village"
     ],
     "description": [
-      "When this would gain ❤, gain 🗡 instead. Frenzy."
+      "When this would gain ❤, gain 🗡 instead.",
+      "Frenzy."
     ]
   }
 ]
